@@ -9,7 +9,7 @@ Various career opportunities await you. Find the right career and connect with c
 
 ### Looking for a job
 - Show your abilities and qualities as a talent in an easy way. So that recruiters can see if you can be one of the candidates for a job interview.
-`Register as Seeker``R
+`Register as Seeker`
 
 ### Looking for a candidate
 - Recruiting candidates is indeed a challenge. We therefore understand that a job recruiter can require multiple job recruitment platforms.
