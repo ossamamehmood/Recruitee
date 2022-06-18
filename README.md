@@ -2,13 +2,29 @@
 Find your dream job here
 Various career opportunities await you. Find the right career and connect with companies anytime, anywhere. 🎯
 
+<p align="left">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/FindYourDream.png">
+</p>
+
+<p align="left">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/JobSeekerCompany.png">
+</p>
+
 ## Login Functionalities
 - You can Logiin directly as per your account status `JobSeeeker` or `Company`
 - `Forget Password`
 
+<p align="left">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Login.png">
+</p>
+
 ## Register Functionalities
 Welcome to JobPortal!
 First of all, what do you want to do?
+
+<p align="left">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Register.png">
+</p>
 
 ### Looking for a job
 - Show your abilities and qualities as a talent in an easy way. So that recruiters can see if you can be one of the candidates for a job interview.
