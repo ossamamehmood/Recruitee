@@ -7,7 +7,7 @@ Various career opportunities await you. Find the right career and connect with c
 </p>
 
 <p align="left">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/JobSeekerCompany.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/JobSeekersCompany.png">
 </p>
 
 ## Login Functionalities
