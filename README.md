@@ -8,7 +8,8 @@ Job Portal : Add, manage, and categorize job listings. Searchable &amp; filterab
 
 ## Run Job Portal (Build in Laravel)
 - Open Xampp to start `Apache` and `MySQL`
-- Create a database locally named `http://localhost/phpmyadmin`
+- Create a database locally `http://localhost/phpmyadmin` named `JobPortal`
+- Import the database `SQL` file given in `JobPortal/Database`
 - Rename `.env.example` file to `.env`inside your project root and fill the database information.
   (windows wont let you do it, so you have to open your console cd your project root directory and run `mv .env.example .env` )
 - Open the project folder in `Visual Studio Code` and `Open Terminal`
