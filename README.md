@@ -1,5 +1,35 @@
 # Job Portal
-Job Portal : Add, manage, and categorize job listings. Searchable &amp; filterable ajax powered job listings added to your pages. 🎯
+Find your dream job here
+Various career opportunities await you. Find the right career and connect with companies anytime, anywhere. 🎯
+
+## Login Functionalities
+
+
+## Register Functionalities
+Welcome to JobPortal!
+First of all, what do you want to do?
+
+### Looking for a job
+- Show your abilities and qualities as a talent in an easy way. So that recruiters can see if you can be one of the candidates for a job interview.
+- `Register as Seeker`
+
+### Looking for a candidate
+- Recruiting candidates is indeed a challenge. We therefore understand that a job recruiter can require multiple job recruitment platforms.
+- `Register as Company`
+
+## Job Seekers
+Find and get better job opportunities according to skills and location.
+- Applicant on Job
+- Search Jobs as candidate
+- Update his/her profile
+- Upload Resume
+
+## Company
+Post job advertisements to connect with the most potential job seekers.
+- View applicant on Jobs
+- Post Job as company
+- Edit Job Requirements or Cancel
+- Accept/Reject Candidate
 
 ## Install the following Xampp, Visual Studio Code and Composer:
 - Download <a href="https://www.apachefriends.org/download.html" target="_blank">Xampp</a>
