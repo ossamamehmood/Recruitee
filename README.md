@@ -2,6 +2,19 @@
 Find your dream job here
 Various career opportunities await you. Find the right career and connect with companies anytime, anywhere. 🎯
 
+## Login Functionalities
+
+
+## Register Functionalities
+
+### Looking for a job
+- Show your abilities and qualities as a talent in an easy way. So that recruiters can see if you can be one of the candidates for a job interview.
+`Register as Seeker``R
+
+### Looking for a candidate
+- Recruiting candidates is indeed a challenge. We therefore understand that a job recruiter can require multiple job recruitment platforms.
+`Register as Company`
+
 ## Job Seekers
 Find and get better job opportunities according to skills and location.
 - Applicant on Job
