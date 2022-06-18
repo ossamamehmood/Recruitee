@@ -1,6 +1,6 @@
 # Job Portal
 Find your dream job here
-Various career opportunities await you. Find the right career and connect with companies anytime, anywhere. 🎯
+Various career opportunities await you. Find the right career and connect with companies anytime, anywhere 🎯
 
 <p align="left">
   <img alt="" style="{max-height: 0px}" src="./Prototype/FindYourDream.png">
