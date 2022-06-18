@@ -6,6 +6,8 @@ Various career opportunities await you. Find the right career and connect with c
 
 
 ## Register Functionalities
+Welcome to JobPortal!
+First of all, what do you want to do?
 
 ### Looking for a job
 - Show your abilities and qualities as a talent in an easy way. So that recruiters can see if you can be one of the candidates for a job interview.
