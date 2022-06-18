@@ -1,7 +1,7 @@
 # Job Portal
 Job Portal : Add, manage, and categorize job listings. Searchable &amp; filterable ajax powered job listings added to your pages.
 
-## Intsall the following Xampp, Vs Code and Composer:
+## Install the following Xampp, Vs Code and Composer:
 - Download xampp: https://www.apachefriends.org/download.html
 - Download Visual Studio Code https://code.visualstudio.com/download
 - Download composer https://getcomposer.org/download/
