@@ -2,9 +2,9 @@
 Job Portal : Add, manage, and categorize job listings. Searchable &amp; filterable ajax powered job listings added to your pages.
 
 ## Install the following Xampp, Vs Code and Composer:
-- Download xampp: https://www.apachefriends.org/download.html
+- Download Xampp: https://www.apachefriends.org/download.html
 - Download Visual Studio Code https://code.visualstudio.com/download
-- Download composer https://getcomposer.org/download/
+- Download Composer https://getcomposer.org/download/
 
 ## Run Job Portal (Build in Laravel)
 - Open Xampp to start `Apache` and `MySQL`
