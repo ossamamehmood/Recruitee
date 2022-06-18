@@ -3,7 +3,8 @@ Find your dream job here
 Various career opportunities await you. Find the right career and connect with companies anytime, anywhere. 🎯
 
 ## Login Functionalities
-
+- You can Logiin directly as per your account status `JobSeeeker` or `Company`
+- `Forget Password`
 
 ## Register Functionalities
 Welcome to JobPortal!
