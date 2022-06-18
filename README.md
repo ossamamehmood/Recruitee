@@ -1,5 +1,5 @@
 # Job Portal
-Job Portal : Add, manage, and categorize job listings. Searchable &amp; filterable ajax powered job listings added to your pages.
+Job Portal : Add, manage, and categorize job listings. Searchable &amp; filterable ajax powered job listings added to your pages. 🎯
 
 ## Install the following Xampp, Vs Code and Composer:
 - Download Xampp: https://www.apachefriends.org/download.html
