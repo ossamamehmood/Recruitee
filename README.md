@@ -3,7 +3,7 @@ Job Portal : Add, manage, and categorize job listings. Searchable &amp; filterab
 
 ## Install the following Xampp, Vs Code and Composer:
 - Download <a href="https://www.apachefriends.org/download.html" target="_blank">Xampp</a>
-- Download <a href="https://code.visualstudio.com/download" target="_blank">Visual Studio Code</a>
+- Download <a href="https://code.visualstudio.com/download" target="_blank">VS Code</a>
 - Download <a href="https://getcomposer.org/download" target="_blank">Composer</a>
 
 ## Run Job Portal (Build in Laravel)
@@ -11,7 +11,7 @@ Job Portal : Add, manage, and categorize job listings. Searchable &amp; filterab
 - Create a database locally named `http://localhost/phpmyadmin`
 - Rename `.env.example` file to `.env`inside your project root and fill the database information.
   (windows wont let you do it, so you have to open your console cd your project root directory and run `mv .env.example .env` )
-- Open the project foldr in `Visual Studio Code` and `Open Terminal`
+- Open the project folder in `Visual Studio Code` and `Open Terminal`
 - Run `composer install` or ```php composer.phar install```
 - Run `php artisan key:generate` 
 - Run `php artisan migrate`
