@@ -1,0 +1,15 @@
+.icon-16 {
+    width: 16px;
+    height: 16px;
+}
+
+.pagination .page-item .page-link {
+    background-color: white !important;
+    color: black !important;
+}
+
+.pagination .page-item.active .page-link {
+    background: black !important;
+    color: white !important;
+    border: none !important;
+}
