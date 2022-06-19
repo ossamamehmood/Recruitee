@@ -1,14 +1,30 @@
 # Job Portal 
 
-<p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Home.png">
-</p>
-
 Find your dream job here
 Various career opportunities await you. Find the right career and connect with companies anytime, anywhere 🎯
 
 <p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Home.png">
+</p>
+
+## About Job Portal
+
+Job Portal is the topest job site in the worldwith unique visitors every month. Indeed strives to put job seekers first, giving them free access to search for jobs, post resumes, and research companies. Every day, we connect millions of people to new opportunities
+
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/About.png">
+</p>
+
+<p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/FindYourDream.png">
+</p>
+
+## Our Expert Team
+
+Meets talented group with a shared vision of delivering consistently
+
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Our Expert Team.mkv">
 </p>
 
 ## Login Functionalities
@@ -62,14 +78,21 @@ Post job advertisements to connect with the most potential job seekers.
 </p>
 
 ## Dashboard
+
+
 Welcome back,
+
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Dashboard.png">
+</p>
+
 - Dashboard
 - Job Lists
 - Applicant
 - Exit Dashboard
 
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/JobSeekersCompany.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Job List.png">
 </p>
 
 ## Install the following Xampp, Visual Studio Code and Composer:
