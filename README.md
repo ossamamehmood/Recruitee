@@ -124,6 +124,11 @@ Password: `razzaqabdullah`
 Email: `minimsam.eth@gmail.com`
 Password: `minimsam`
 
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Phpmyadmin.png">
+</p>
+
+
 ## Install the following Xampp, Visual Studio Code and Composer:
 - Download <a href="https://www.apachefriends.org/download.html" target="_blank">Xampp</a>
 - Download <a href="https://code.visualstudio.com/download" target="_blank">VS Code</a>
@@ -146,7 +151,7 @@ Password: `minimsam`
   <img alt="" style="{max-height: 0px}" src="./Prototype/php artisan serve.png">
 </p>
 
-## Some reason your project stop working do these:
+## Some reason project stop working :
 - `composer update`
 - `php artisan migrate`
 
