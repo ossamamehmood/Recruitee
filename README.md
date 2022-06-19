@@ -78,15 +78,15 @@ Post job advertisements to connect with the most potential job seekers.
 </p>
 
 ## Dashboard
-
 Welcome back,
-- Dashboard
-- Job Lists
-- Applicants
-- Applicants Profile
 <p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/Dashboard/Dashboard.png">
 </p>
+
+- Job Lists
+- Applicants
+- Applicants Profile
+
 <p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/Dashboard/Job List.png">
 </p>
