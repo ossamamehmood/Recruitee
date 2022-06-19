@@ -106,21 +106,21 @@ Welcome back,
 
 #### Job Seekers
 
-- Ossama Mehmood <br><br>
+- Ossama Mehmood <br>
 Email: `ossamamehmood110@gmail.com`
 Password: `ossamamehmood`
 
-- Hamza Altaf <br><br>
+- Hamza Altaf <br>
 Email: `hamzaaltaf481@gmail.com`
 Password: `hamzaaltaf`
 
-- Abdullah <br><br>
+- Abdullah <br>
 Email: `razzaqabdullah7867@@gmail.com`
 Password: `razzaqabdullah`
 
 ### Compaany
 
-- Minimsam <br><br>
+- Minimsam <br>
 Email: `minimsam.eth@gmail.com`
 Password: `minimsam`
 
