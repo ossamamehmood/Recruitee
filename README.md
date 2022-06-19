@@ -4,7 +4,7 @@ Find your dream job here
 Various career opportunities await you. Find the right career and connect with companies anytime, anywhere 🎯
 
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Home.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Job Portal/Home.png">
 </p>
 
 ## About Job Portal
@@ -12,11 +12,11 @@ Various career opportunities await you. Find the right career and connect with c
 Job Portal is the topest job site in the worldwith unique visitors every month. Indeed strives to put job seekers first, giving them free access to search for jobs, post resumes, and research companies. Every day, we connect millions of people to new opportunities
 
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/About.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/About Job Portal/About.png">
 </p>
 
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/FindYourDream.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/About Job Portal/FindYourDream.png">
 </p>
 
 ## Our Expert Team
@@ -24,7 +24,7 @@ Job Portal is the topest job site in the worldwith unique visitors every month. 
 Meets talented group with a shared vision of delivering consistently
 
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Our Expert Team.gif">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Our Expert Team/Our Expert Team.gif">
 </p>
 
 ## Login Functionalities
@@ -32,7 +32,7 @@ Meets talented group with a shared vision of delivering consistently
 - `Forget Password`
 
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Login.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Login Functionalities/Login.png">
 </p>
 
 ## Register Functionalities
@@ -40,7 +40,7 @@ Meets talented group with a shared vision of delivering consistently
 Welcome to JobPortal!
 First of all, what do you want to do?
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Welcome to Job Portal.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Register Functionalities/Welcome to Job Portal.png">
 </p>
 
 ### Looking for a job
@@ -48,7 +48,7 @@ First of all, what do you want to do?
 - `Register as Seeker`
 
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Register as Job Seeker.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Register Functionalities/Register as Job Seeker.png">
 </p>
 
 ### Looking for a candidate
@@ -56,7 +56,7 @@ First of all, what do you want to do?
 - `Register as Company`
 
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Register as Company.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Register Functionalities/Register as Company.png">
 </p>
 
 ## Job Seekers
@@ -74,7 +74,7 @@ Post job advertisements to connect with the most potential job seekers.
 - Accept/Reject Candidate
 
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/JobSeekersCompany.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Job Seekers Company/JobSeekersCompany.png">
 </p>
 
 ## Dashboard
@@ -82,7 +82,7 @@ Post job advertisements to connect with the most potential job seekers.
 Welcome back,
 
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Dashboard.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Dashboard/Dashboard.png">
 </p>
 
 - Dashboard
@@ -91,11 +91,11 @@ Welcome back,
 - Exit Dashboard
 
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Job List.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Dashboard/Job List.png">
 </p>
 
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Applicants.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Dashboard/Applicants.png">
 </p>
 
 
@@ -123,7 +123,7 @@ Password: `minimsam`
 
 <br>
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Phpmyadmin.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/User credentials/Phpmyadmin.png">
 </p>
 
 
@@ -146,7 +146,7 @@ Password: `minimsam`
 - Run `php artisan serve`
 - Follow `Link` <a href="http://127.0.0.1:8000" target="_blank">127.0.0.1:8000</a>
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/php artisan serve.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/User credentials/php artisan serve.png">
 </p>
 
 ## Some reason project stop working :
