@@ -86,6 +86,7 @@ Welcome back,
 - Job Lists
 - Applicants
 - Applicants Profile
+- Exit Dashboard
 
 <p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/Dashboard/Job List.png">
@@ -96,8 +97,6 @@ Welcome back,
 <p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/Dashboard/ApplicantsProfile.png">
 </p>
-
-- Exit Dashboard
 
 ## User credentials
 
