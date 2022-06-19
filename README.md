@@ -117,8 +117,8 @@ Welcome back,
 - Run `php artisan serve`
 - Follow `Link` <a href="http://127.0.0.1:8000" target="_blank">127.0.0.1:8000</a>
 
-## If for some reason your project stop working do these:
-- `composer install`
+## Some reason your project stop working do these:
+- `composer update`
 - `php artisan migrate`
 
 ## Support 💓
