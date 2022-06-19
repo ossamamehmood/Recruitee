@@ -24,7 +24,7 @@ Job Portal is the topest job site in the worldwith unique visitors every month. 
 Meets talented group with a shared vision of delivering consistently
 
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Our Expert Team.mkv">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Our Expert Team.gif">
 </p>
 
 ## Login Functionalities
