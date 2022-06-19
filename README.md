@@ -2,11 +2,11 @@
 Find your dream job here
 Various career opportunities await you. Find the right career and connect with companies anytime, anywhere 🎯
 
-<p align="left">
+<p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/FindYourDream.png">
 </p>
 
-<p align="left">
+<p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/JobSeekersCompany.png">
 </p>
 
@@ -14,7 +14,7 @@ Various career opportunities await you. Find the right career and connect with c
 - You can Logiin directly as per your account status `JobSeeeker` or `Company`
 - `Forget Password`
 
-<p align="left">
+<p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/Login.png">
 </p>
 
@@ -22,7 +22,7 @@ Various career opportunities await you. Find the right career and connect with c
 Welcome to JobPortal!
 First of all, what do you want to do?
 
-<p align="left">
+<p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/Register.png">
 </p>
 
