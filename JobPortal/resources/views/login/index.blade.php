@@ -7,7 +7,7 @@
                 @csrf
                 <x-flash-message type="success" />
                 <x-flash-message type="error" />
-                <h1 class="h3 mb-5 fw-normal text-center ">Please Login</h1>
+                <h1 class="h3 mb-5 fw-normal text-center ">Login as Job Seeker or Company</h1>
                 <div class="form-floating mb-3">
                     <input type="email" name="email" class="form-control" id="floatingInput" value="{{ old('email') }}"
                         placeholder="name@example.com">
@@ -20,7 +20,7 @@
                 </div>
 
                 <button class="w-100 btn btn-lg btn-dark my-3" type="submit">Login</button>
-                <small class="d-block text-center">don't have an account? <a class="text-secondary" href="/register">Register
+                <small class="d-block text-center">Don't have an candidate/company account? <a class="text-secondary" href="/register">Register
                         Now!</a></small>
             </form>
         </div>

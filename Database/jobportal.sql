@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 18, 2022 at 05:18 PM
+-- Generation Time: Jun 19, 2022 at 02:05 PM
 -- Server version: 10.4.19-MariaDB
 -- PHP Version: 8.0.7
 
@@ -53,21 +53,11 @@ INSERT INTO `applications` (`id`, `applicant_id`, `title`, `receiver_id`, `creat
 (10, 4, 'illo', 2, '2022-06-18 09:17:08', '2022-06-18 09:17:08'),
 (11, 6, 'sit', 2, '2022-06-18 09:18:18', '2022-06-18 09:18:18'),
 (12, 7, 'sit', 2, '2022-06-18 09:27:13', '2022-06-18 09:27:13'),
-(13, 6, 'Graphic Designer', 7, '2022-06-18 09:44:42', '2022-06-18 09:44:42'),
-(14, 6, 'Digital Creator', 7, '2022-06-18 10:11:40', '2022-06-18 10:11:40'),
-(15, 6, 'UI / UX Designer', 7, '2022-06-18 10:11:43', '2022-06-18 10:11:43'),
-(16, 6, 'UI / UX Designer', 7, '2022-06-18 10:11:43', '2022-06-18 10:11:43'),
-(17, 6, 'Graphic Designer', 7, '2022-06-18 10:11:47', '2022-06-18 10:11:47'),
-(18, 6, 'Graphic Designer', 7, '2022-06-18 10:11:48', '2022-06-18 10:11:48'),
-(19, 6, 'Content Writer', 7, '2022-06-18 10:11:52', '2022-06-18 10:11:52'),
-(20, 6, 'Video Production', 7, '2022-06-18 10:11:56', '2022-06-18 10:11:56'),
-(21, 6, 'Game Developer', 7, '2022-06-18 10:12:01', '2022-06-18 10:12:01'),
-(22, 6, 'Software Engineer', 7, '2022-06-18 10:12:07', '2022-06-18 10:12:07'),
-(23, 6, 'SEO Product Manager', 7, '2022-06-18 10:12:13', '2022-06-18 10:12:13'),
 (24, 6, 'Senior Product Manager, Work Management', 7, '2022-06-18 10:12:20', '2022-06-18 10:12:20'),
 (25, 6, 'Senior Digital Designer', 7, '2022-06-18 10:12:26', '2022-06-18 10:12:26'),
 (26, 6, 'UI Designer Figma', 7, '2022-06-18 10:12:31', '2022-06-18 10:12:31'),
-(27, 6, 'Community Manager', 7, '2022-06-18 10:12:37', '2022-06-18 10:12:37');
+(28, 6, 'Digital Creator', 7, '2022-06-19 05:13:45', '2022-06-19 05:13:45'),
+(29, 6, 'Digital Creator', 7, '2022-06-19 05:13:46', '2022-06-19 05:13:46');
 
 -- --------------------------------------------------------
 
@@ -209,7 +199,9 @@ INSERT INTO `users` (`id`, `name`, `email`, `desc`, `address`, `email_verified_a
 (4, 'Julien Greenfelder DDS', 'towne.isom@example.net', NULL, NULL, '2022-06-18 09:17:08', 0, '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'noimage.jpg', NULL, 'Ic9jBCuSyO', '2022-06-18 09:17:08', '2022-06-18 09:17:08'),
 (5, 'Test User', 'test@example.com', NULL, NULL, '2022-06-18 09:17:08', 0, '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'noimage.jpg', NULL, 'ijjwGxl2MI', '2022-06-18 09:17:08', '2022-06-18 09:17:08'),
 (6, 'Ossama Mehmood', 'ossamamehmood110@gmail.com', '<blockquote>Started my career at the age of Sixteen (16) as a Graphic Designer. I have four (4) plus years of predominant hands-on experience gained by doing freelance on different platforms. I\'m currently specialized in working as a Digital Creator, Senior Graphic Designer, and User Interface (UI) &amp; Experience (UX).</blockquote>', 'Islamabad, Pakistan', '2022-06-15 14:36:05', 0, '$2y$10$wtgj5zvZwt6DjTvhONG/2eJrPXFrE0uX1k4/Gx9kiBMeRl.iSj/5K', 'profile-images/7o3tUhl41zEaaTxODRAav6hhJ8RkNCR2gSqteMcZ.png', 'files/ow56Lpu2ACHH1rHI4sSXRVcxfXsgF7B4hwaLHTk3.pdf', NULL, '2022-06-18 09:17:55', '2022-06-18 10:10:03'),
-(7, 'Minimsam', 'minimsam.eth@gmail.com', NULL, NULL, NULL, 1, '$2y$10$UkxI/qLmzhPJq2vywyWKIuo3gEpNxgsNQ0fLDSgJ06WbuDxVrYBci', 'noimage.jpg', NULL, NULL, '2022-06-18 09:26:30', '2022-06-18 09:26:30');
+(7, 'Minimsam', 'minimsam.eth@gmail.com', NULL, NULL, NULL, 1, '$2y$10$UkxI/qLmzhPJq2vywyWKIuo3gEpNxgsNQ0fLDSgJ06WbuDxVrYBci', 'noimage.jpg', NULL, NULL, '2022-06-18 09:26:30', '2022-06-18 09:26:30'),
+(8, 'Hamza Altaf', 'hamzaaltaf481@gmail.com', NULL, NULL, NULL, 0, '$2y$10$Z3vCv4kd88s4MEirp7UMLO3dApc/6sHaxR6qmMfbihgipFGOBlPZG', 'noimage.jpg', NULL, NULL, '2022-06-19 06:07:18', '2022-06-19 06:07:18'),
+(9, 'Abdullah', 'razzaqabdullah7867@gmail.com', NULL, NULL, NULL, 0, '$2y$10$UkzuLiV6XcN7fJIRboto3.zQ5JxQf.Urc979tfsId9bMf7EODaJ7y', 'noimage.jpg', NULL, NULL, '2022-06-19 06:11:02', '2022-06-19 06:11:02');
 
 --
 -- Indexes for dumped tables
@@ -269,7 +261,7 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT for table `applications`
 --
 ALTER TABLE `applications`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=28;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=30;
 
 --
 -- AUTO_INCREMENT for table `failed_jobs`
@@ -299,7 +291,7 @@ ALTER TABLE `personal_access_tokens`
 -- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

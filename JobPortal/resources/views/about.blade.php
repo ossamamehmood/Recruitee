@@ -100,9 +100,16 @@
         </nav>
     </header>
     <main>
-        <div class="container mt-2">
-            @yield('container')
-        </div>
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner bg-dark">
+                <div class="carousel-item active">
+                    <img src="https://source.unsplash.com/1200x500/?deal" style="opacity: 80%" class="d-block w-100 bg-dark" alt="Heroes image">
+                    <div class="carousel-caption d-none d-md-block my-lg-5">
+                    <h3>About Job Portal</h3>
+                    <p>Job Portal is the topest job site in the worldwith unique visitors every month. Indeed strives to put job seekers first, giving them free access to search for jobs, post resumes, and research companies. Every day, we connect millions of people to new opportunities</p>
+                    <a class="btn btn-secondary" href="/team">Expert Team</a>
+                </div>
+                </div>
     </main>
     <script>
         feather.replace()
@@ -110,6 +117,56 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
     </script>
-    
 </body>
+
 </html>
+
+<!--- About Us 
+Styling 
+--->
+
+<style>
+.user-pic {
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 100%;
+    margin: 20px auto 20px;
+    border-left: 6px solid #ddd;
+    border-right: 6px solid #ddd;
+    border-top: 6px solid #212529;
+    border-bottom: 6px solid #212529;
+    transform:  rotate(720deg);
+    transition: 1.0s;
+}
+.card-box:hover .user-pic {
+    transform: rotate(360deg);
+    transform: scale(1.0);
+}
+.card-box {
+    padding: 15px;
+    background-color: #fdfdfd;
+    margin: 20px 0px;
+    border-radius: 10px;
+    border: 1px solid #eee;
+    box-shadow: 0px 0px 8px 0px #d4d4d4;
+    transition: 0.5s;
+}
+.card-box:hover {
+	border: 1px solid #212529;
+}
+.card-box p {
+    color: #212529;
+}
+
+.btn-primary {
+    border-color: #212529;
+    background-color: #212529;
+    border: 1px solid #212529;
+}
+
+.btn-primary:hover{
+     background: #ffffff;
+     color: black;
+}
+</style>

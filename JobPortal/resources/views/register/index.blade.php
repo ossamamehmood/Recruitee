@@ -1,7 +1,7 @@
 @extends('layouts.main')
 
 @section('container')
-    <h3 class="text-center mt-4">Welcome to Lokers!</h3>
+    <h3 class="text-center mt-4">Welcome to Job Portal!</h3>
     <h5 class="text-center">First of all, what do you want to do?</h5>
     <div class="d-md-flex justify-content-around">
         <x-box class="bg-dark text-white">

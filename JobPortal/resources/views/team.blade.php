@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 
 <head>
     <meta charset="UTF-8">
@@ -23,7 +22,6 @@
 
 </head>
 
-<body>
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container">
@@ -110,6 +108,112 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
     </script>
-    
+
+<!--- Expert Team --->
+
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-6 offset-sm-3 mt-4 mb-4">
+                <br>
+				<h2 class="text-center">Our Expert Team</h2>
+				<p class="text-center">Meets talented group with a shared vision of delivering consistently</p>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://scontent.fisb1-2.fna.fbcdn.net/v/t39.30808-6/202989233_1450680135283298_7655711561447310072_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHmjOp3xN80Gnky2xgReDVdUGlcLwTtkttQaVwvBO2S28ud-mVj3SBXbnGWbRuHWmIFzO_oeKbnKKHFp0BGUd6Z&_nc_ohc=bc4gB9D0OkgAX9I3M-F&tn=bPoVyVHrC2YdyyUk&_nc_ht=scontent.fisb1-2.fna&oh=00_AT9Wmdn73ETfh2sniXmdVurAG14CzJpE9b9Q1akY_fgRrA&oe=62B2D0D6" class="img-fluid" alt="User Pic">
+					</div>
+					<h4>Abdullah</h4>
+					<h6>Database Specialist</h6>
+					<hr>
+					<p>As a database specialist, mine duties include designing database elements, retrieving data for reports, maintaining secure data backup systems, running tests on database systems, and debugging database issues.</p>
+					<hr>
+					<a href="https://www.facebook.com/profile.php?id=100010239768044" class="btn btn-primary">Know More</a>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://avatars.githubusercontent.com/u/40134503?s=400&u=d8388c53e89591797028adf2c8d3fbee41e396fa&v=4" class="img-fluid" alt="User Pic">
+					</div>
+					<h4>Ossama Mehmood 샘</h4>
+					<h6>User Interface Designer</h6>
+					<hr>
+					<p>Started my career at the age of Sixteen (16) as a Graphic Designer. To upvoke mine jounrey strength in myself as a User Interface Designer, Website and Software Designer       <a href="https://ossamamehmood.me">ossamaehmood</a></p>
+					<hr>
+					<a href="https://www.linkedin.com/in/ossamamehmood" class="btn btn-primary">Know More</a>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://scontent.fisb1-2.fna.fbcdn.net/v/t1.6435-9/190148010_2866972510297168_2770519840785204330_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFsKQuhS8-oRtcRoiiHIOkAtJfnVgTyma-0l-dWBPKZr85KYE8A1GQCYcwUEikkSpc8wTmALyVXDzMkgy6k271A&_nc_ohc=a4DNfRuv-DcAX8GINeF&_nc_ht=scontent.fisb1-2.fna&oh=00_AT9XpkksFcO5N0gJYeAishVJToRpj5Smv0SN0oxVFPVWAQ&oe=62D4C812" class="img-fluid" alt="User Pic">
+					</div>
+					<h4>Hamza Altaf</h4>
+					<h6>Backend End Developer</h6>
+					<hr>
+					<p>As a Back-end developers create, code, and improve the server, server-side applications, and databases that, when combined with front-end codes, help create a functional, seamless experience for the end-user.</p>
+					<hr>
+                    <a href="https://www.linkedin.com/in/hamza-altaf-b7a3751b0" class="btn btn-primary">Know More</a>
+                </div>
+			</div>
+		</div>
+        <br>
+	</div>
 </body>
-</html>
+
+<!--- Team 
+Styling 
+--->
+
+<style>
+.user-pic {
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 100%;
+    margin: 20px auto 20px;
+    border-left: 6px solid #ddd;
+    border-right: 6px solid #ddd;
+    border-top: 6px solid #212529;
+    border-bottom: 6px solid #212529;
+    transform:  rotate(720deg);
+    transition: 1.0s;
+}
+.card-box:hover .user-pic {
+    transform: rotate(0deg);
+    transform: scale(1.0);
+}
+.card-box {
+    padding: 15px;
+    background-color: #fdfdfd;
+    margin: 20px 0px;
+    border-radius: 10px;
+    border: 1px solid #eee;
+    box-shadow: 0px 0px 0px 0px #d4d4d4;
+    transition: 0.5s;
+}
+.card-box:hover {
+	border: 1px solid #212529;
+}
+.card-box p {
+    color: #212529;
+}
+
+.btn-primary {
+    border-color: #212529;
+    background-color: #212529;
+    border: 1px solid #212529;
+}
+
+.btn-primary:hover{
+     background: #ffffff;
+     color: black;
+}
+</style>

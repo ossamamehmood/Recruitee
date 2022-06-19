@@ -5,7 +5,7 @@
         <div class="col-md-5 p-5 shadow border">
             <form action="/register/seeker" method="POST">
                 @csrf
-                <h1 class="h3 mb-5 fw-normal text-center">Please Register</h1>
+                <h1 class="h3 mb-5 fw-normal text-center">Register as Job Seeker</h1>
                 <div class="form-floating mb-3">
                     <input type="text" class="form-control @error('name') is-invalid @enderror" name="name"
                         id="floatingInput" required placeholder="your name" value="{{ old('name') }}">
@@ -37,7 +37,7 @@
                     </div>
                 </div>
 
-                <button class="w-100 btn btn-lg btn-dark my-3" type="submit">register</button>
+                <button class="w-100 btn btn-lg btn-dark my-3" type="submit">Register</button>
                 <small class="d-block text-center">Already has an account? <a class="text-secondary" href="/login">Login
                         here!</a></small>
             </form>

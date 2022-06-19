@@ -24,6 +24,18 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/team', function () {
+    return view('team');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
 Route::get('/jobs', [ListingController::class, 'index']);
 Route::get('/jobs/{listing}', [ListingController::class, 'show']);
 
