@@ -1,13 +1,14 @@
-# Job Portal
+# Job Portal 
+
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Home.png">
+</p>
+
 Find your dream job here
 Various career opportunities await you. Find the right career and connect with companies anytime, anywhere 🎯
 
 <p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/FindYourDream.png">
-</p>
-
-<p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/JobSeekersCompany.png">
 </p>
 
 ## Login Functionalities
@@ -55,6 +56,21 @@ Post job advertisements to connect with the most potential job seekers.
 - Post Job as company
 - Edit Job Requirements or Cancel
 - Accept/Reject Candidate
+
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/JobSeekersCompany.png">
+</p>
+
+## Dashboard
+Welcome back,
+- Dashboard
+- Job Lists
+- Applicant
+- Exit Dashboard
+
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/JobSeekersCompany.png">
+</p>
 
 ## Install the following Xampp, Visual Studio Code and Composer:
 - Download <a href="https://www.apachefriends.org/download.html" target="_blank">Xampp</a>
