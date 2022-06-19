@@ -1,38 +1,47 @@
-# Job Portal
+# Job Portal 
+
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Home.png">
+</p>
+
 Find your dream job here
 Various career opportunities await you. Find the right career and connect with companies anytime, anywhere 🎯
 
-<p align="left">
+<p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/FindYourDream.png">
-</p>
-
-<p align="left">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/JobSeekersCompany.png">
 </p>
 
 ## Login Functionalities
 - You can Logiin directly as per your account status `JobSeeeker` or `Company`
 - `Forget Password`
 
-<p align="left">
+<p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/Login.png">
 </p>
 
 ## Register Functionalities
+
 Welcome to JobPortal!
 First of all, what do you want to do?
-
-<p align="left">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Register.png">
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Welcome to Job Portal.png">
 </p>
 
 ### Looking for a job
 - Show your abilities and qualities as a talent in an easy way. So that recruiters can see if you can be one of the candidates for a job interview.
 - `Register as Seeker`
 
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Register as Job Seeker.png">
+</p>
+
 ### Looking for a candidate
 - Recruiting candidates is indeed a challenge. We therefore understand that a job recruiter can require multiple job recruitment platforms.
 - `Register as Company`
+
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Register as Company.png">
+</p>
 
 ## Job Seekers
 Find and get better job opportunities according to skills and location.
@@ -47,6 +56,21 @@ Post job advertisements to connect with the most potential job seekers.
 - Post Job as company
 - Edit Job Requirements or Cancel
 - Accept/Reject Candidate
+
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/JobSeekersCompany.png">
+</p>
+
+## Dashboard
+Welcome back,
+- Dashboard
+- Job Lists
+- Applicant
+- Exit Dashboard
+
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/JobSeekersCompany.png">
+</p>
 
 ## Install the following Xampp, Visual Studio Code and Composer:
 - Download <a href="https://www.apachefriends.org/download.html" target="_blank">Xampp</a>
