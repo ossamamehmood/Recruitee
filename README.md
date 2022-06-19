@@ -27,6 +27,14 @@ Meets talented group with a shared vision of delivering consistently
   <img alt="" style="{max-height: 0px}" src="./Prototype/Our Expert Team/Our Expert Team.gif">
 </p>
 
+## Job Search
+
+Search a Job and Apply
+
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Job Search/JobSearch.png">
+</p>
+
 ## Login Functionalities
 - You can Logiin directly as per your account status `JobSeeeker` or `Company`
 - `Forget Password`
@@ -59,14 +67,31 @@ First of all, what do you want to do?
   <img alt="" style="{max-height: 0px}" src="./Prototype/Register Functionalities/Register as Company.png">
 </p>
 
-## Job Seekers
+## Job Seekers & Company
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Job Seekers Company/JobSeekersCompany.png">
+</p>
+
+### Job Seekers
 Find and get better job opportunities according to skills and location.
 - Applicant on Job
 - Search Jobs as candidate
 - Update his/her profile
 - Upload Resume
+- 
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Job Seekers/JobSeekersProfile.png">
+</p>
 
-## Company
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Job Seekers/ApplyJob.png">
+</p>
+
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Job Seekers/ApplyJob2.png">
+</p>
+
+### Company
 Post job advertisements to connect with the most potential job seekers.
 - View applicant on Jobs
 - Post Job as company
@@ -74,8 +99,9 @@ Post job advertisements to connect with the most potential job seekers.
 - Accept/Reject Candidate
 
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Job Seekers Company/JobSeekersCompany.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Company/CompanyProfile.png">
 </p>
+
 
 ## Dashboard
 Welcome back,
