@@ -98,6 +98,37 @@ Welcome back,
   <img alt="" style="{max-height: 0px}" src="./Prototype/Applicants.png">
 </p>
 
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Job List.png">
+</p>
+
+## User credentials
+
+#### Job Seekers
+
+- Ossama Mehmood <br>
+Email: `ossamamehmood110@gmail.com`
+Password: `ossamamehmood`
+
+- Hamza Altaf <br>
+Email: `hamzaaltaf481@gmail.com`
+Password: `hamzaaltaf`
+
+- Abdullah <br>
+Email: `razzaqabdullah7867@@gmail.com`
+Password: `razzaqabdullah`
+
+### Company
+
+- Minimsam <br>
+Email: `minimsam.eth@gmail.com`
+Password: `minimsam`
+
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Phpmyadmin.png">
+</p>
+
+
 ## Install the following Xampp, Visual Studio Code and Composer:
 - Download <a href="https://www.apachefriends.org/download.html" target="_blank">Xampp</a>
 - Download <a href="https://code.visualstudio.com/download" target="_blank">VS Code</a>
@@ -116,14 +147,13 @@ Welcome back,
 - Run `php artisan db:seed` to run seeders, if any.
 - Run `php artisan serve`
 - Follow `Link` <a href="http://127.0.0.1:8000" target="_blank">127.0.0.1:8000</a>
-
-## Some reason your project stop working do these:
-- `composer update`
-- `php artisan migrate`
 <p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/php artisan serve.png">
 </p>
 
+## Some reason project stop working :
+- `composer update`
+- `php artisan migrate`
 
 ## Support 💓
 
