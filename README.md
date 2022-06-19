@@ -151,11 +151,13 @@ Password: `razzaqabdullah`
 Email: `minimsam.eth@gmail.com`
 Password: `minimsam`
 
-<br>
+- Meta Inside <br>
+Email: `metainside@gmail.com`
+Password: `metainside`
+
 <p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/User credentials/Phpmyadmin.png">
 </p>
-
 
 ## Install the following Xampp, Visual Studio Code and Composer:
 - Download <a href="https://www.apachefriends.org/download.html" target="_blank">Xampp</a>
@@ -176,7 +178,7 @@ Password: `minimsam`
 - Run `php artisan serve`
 - Follow `Link` <a href="http://127.0.0.1:8000" target="_blank">127.0.0.1:8000</a>
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/User credentials/php artisan serve.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Run Job Portal/php artisan serve.png">
 </p>
 
 ## Some reason project stop working :
