@@ -115,6 +115,7 @@ Welcome back,
 - Run `php artisan migrate`
 - Run `php artisan db:seed` to run seeders, if any.
 - Run `php artisan serve`
+- Follow Link <a href="http://127.0.0.1:8000" target="_blank">127.0.0.1:8000</a>
 
 ## If for some reason your project stop working do these:
 - `composer install`
