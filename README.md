@@ -29,7 +29,11 @@ Meets talented group with a shared vision of delivering consistently
 
 ## Job Search
 
-Search a Job and Apply
+64% of job seekers get hired through a referral. Use Job Portal to boost your chances of getting hired through people you know.
+
+- Search a Job
+- View a Jobs
+- Apply
 
 <p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/Job Search/JobSearch.png">
@@ -68,6 +72,7 @@ First of all, what do you want to do?
 </p>
 
 ## Job Seekers & Company
+Find and get better job opportunities according to skills and location and Post Opportunities to hire the Professionals
 <p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/Job Seekers Company/JobSeekersCompany.png">
 </p>
@@ -78,7 +83,7 @@ Find and get better job opportunities according to skills and location.
 - Search Jobs as candidate
 - Update his/her profile
 - Upload Resume
-- 
+
 <p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/Job Seekers/JobSeekersProfile.png">
 </p>
