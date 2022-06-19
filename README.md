@@ -79,7 +79,6 @@ Post job advertisements to connect with the most potential job seekers.
 
 ## Dashboard
 
-
 Welcome back,
 
 <p align="center">
@@ -88,7 +87,7 @@ Welcome back,
 
 - Dashboard
 - Job Lists
-- Applicant
+- Applicants
 - Exit Dashboard
 
 <p align="center">
@@ -96,7 +95,7 @@ Welcome back,
 </p>
 
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Applicant.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Applicants.png">
 </p>
 
 ## Install the following Xampp, Visual Studio Code and Composer:
