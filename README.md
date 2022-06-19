@@ -95,6 +95,10 @@ Welcome back,
   <img alt="" style="{max-height: 0px}" src="./Prototype/Job List.png">
 </p>
 
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Applicant.png">
+</p>
+
 ## Install the following Xampp, Visual Studio Code and Composer:
 - Download <a href="https://www.apachefriends.org/download.html" target="_blank">Xampp</a>
 - Download <a href="https://code.visualstudio.com/download" target="_blank">VS Code</a>
