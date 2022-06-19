@@ -80,24 +80,27 @@ Post job advertisements to connect with the most potential job seekers.
 ## Dashboard
 
 Welcome back,
-
+- Dashboard
 <p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/Dashboard/Dashboard.png">
 </p>
 
-- Dashboard
 - Job Lists
-- Applicants
-- Exit Dashboard
-
 <p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/Dashboard/Job List.png">
 </p>
 
+- Applicants
 <p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/Dashboard/Applicants.png">
 </p>
 
+- Applicants Profile
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Dashboard/ApplicantsProfile.png">
+</p>
+
+- Exit Dashboard
 
 ## User credentials
 
