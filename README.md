@@ -19,20 +19,28 @@ Various career opportunities await you. Find the right career and connect with c
 </p>
 
 ## Register Functionalities
+
 Welcome to JobPortal!
 First of all, what do you want to do?
-
 <p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Register.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Welcome to Job Portal.png">
 </p>
 
 ### Looking for a job
 - Show your abilities and qualities as a talent in an easy way. So that recruiters can see if you can be one of the candidates for a job interview.
 - `Register as Seeker`
 
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Register as Job Seeker.png">
+</p>
+
 ### Looking for a candidate
 - Recruiting candidates is indeed a challenge. We therefore understand that a job recruiter can require multiple job recruitment platforms.
 - `Register as Company`
+
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Register as Company.png">
+</p>
 
 ## Job Seekers
 Find and get better job opportunities according to skills and location.
