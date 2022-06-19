@@ -118,7 +118,7 @@ Password: `hamzaaltaf`
 Email: `razzaqabdullah7867@@gmail.com`
 Password: `razzaqabdullah`
 
-### Compaany
+### Company
 
 - Minimsam <br>
 Email: `minimsam.eth@gmail.com`
@@ -142,13 +142,13 @@ Password: `minimsam`
 - Run `php artisan db:seed` to run seeders, if any.
 - Run `php artisan serve`
 - Follow `Link` <a href="http://127.0.0.1:8000" target="_blank">127.0.0.1:8000</a>
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/php artisan serve.png">
+</p>
 
 ## Some reason your project stop working do these:
 - `composer update`
 - `php artisan migrate`
-<p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/php artisan serve.png">
-</p>
 
 ## Support 💓
 
