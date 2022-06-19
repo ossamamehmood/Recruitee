@@ -98,6 +98,32 @@ Welcome back,
   <img alt="" style="{max-height: 0px}" src="./Prototype/Applicants.png">
 </p>
 
+<p align="center">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Job List.png">
+</p>
+
+## User credentials
+
+#### Job Seekers
+
+- Ossama Mehmood <br><br>
+Email: `ossamamehmood110@gmail.com`
+Password: `ossamamehmood`
+
+- Hamza Altaf <br><br>
+Email: `hamzaaltaf481@gmail.com`
+Password: `hamzaaltaf`
+
+- Abdullah <br><br>
+Email: `razzaqabdullah7867@@gmail.com`
+Password: `razzaqabdullah`
+
+### Compaany
+
+- Minimsam <br><br>
+Email: `minimsam.eth@gmail.com`
+Password: `minimsam`
+
 ## Install the following Xampp, Visual Studio Code and Composer:
 - Download <a href="https://www.apachefriends.org/download.html" target="_blank">Xampp</a>
 - Download <a href="https://code.visualstudio.com/download" target="_blank">VS Code</a>
@@ -123,7 +149,6 @@ Welcome back,
 <p align="center">
   <img alt="" style="{max-height: 0px}" src="./Prototype/php artisan serve.png">
 </p>
-
 
 ## Support 💓
 
