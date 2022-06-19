@@ -98,9 +98,6 @@ Welcome back,
   <img alt="" style="{max-height: 0px}" src="./Prototype/Applicants.png">
 </p>
 
-<p align="center">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Job List.png">
-</p>
 
 ## User credentials
 
