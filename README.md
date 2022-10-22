@@ -1,4 +1,4 @@
-# Job Portal 
+# Recruitee 
 
 Find your dream job here
 Various career opportunities await you. Find the right career and connect with companies anytime, anywhere 🎯
