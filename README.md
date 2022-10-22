@@ -7,7 +7,7 @@ Various career opportunities await you. Find the right career and connect with c
   <img alt="" style="{max-height: 0px}" src="./Prototype/Job Portal/Home.png">
 </p>
 
-## About Job Portal
+## About Recruitee
 
 Job Portal is the topest job site in the worldwith unique visitors every month. Indeed strives to put job seekers first, giving them free access to search for jobs, post resumes, and research companies. Every day, we connect millions of people to new opportunities
 
