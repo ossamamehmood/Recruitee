@@ -181,9 +181,24 @@ Password: `metainside`
   <img alt="" style="{max-height: 0px}" src="./Prototype/Run Job Portal/php artisan serve.png">
 </p>
 
-## Some reason project stop working :
+## Some reason project stop working (Command to Fix):
 - `composer update`
 - `php artisan migrate`
+
+# Functionality (Coming Versions)
+
+- Newer Environment 
+  - `Desktop` Application
+  - `Android` Application
+
+- Functionalities
+  - Dedicated `Chat Bot`
+  - `Reapply` for a Job
+  - `Contact` Recruitee
+  - Email `Notification`
+  - Job `Alert`
+
+
 
 ## Support 💓
 
