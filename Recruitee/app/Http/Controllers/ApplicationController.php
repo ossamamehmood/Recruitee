@@ -23,6 +23,25 @@ class ApplicationController extends Controller
 
     public function store(Request $request)
     {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
         $validatedData = $request->validate([
             'title' => 'required',
             'receiver_id' => 'required'

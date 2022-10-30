@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <title>Job Portal</title>
+    <title>Recruitee</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://unpkg.com/feather-icons"></script>
@@ -25,7 +25,7 @@
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container">
-                <a class="navbar-brand" href="/"><span data-feather="briefcase"></span>  Job Portal</a>
+                <a class="navbar-brand" href="/"><span data-feather="briefcase"></span>  Recruitee</a>
                 <button class="navbar-toggler btn-light" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
@@ -125,14 +125,14 @@
 			<div class="col-md-4">
 				<div class="card-box text-center">
 					<div class="user-pic">
-						<img src="images/abdullah.jpg" class="img-fluid" alt="User Pic">
+						<img src="images/zaeem.jpg" class="img-fluid" alt="User Pic">
 					</div>
-					<h4>Abdullah</h4>
+					<h4>Zaeem Tahir</h4>
 					<h6>Database Specialist</h6>
 					<hr>
 					<p>As a database specialist, mine duties include designing database elements, retrieving data for reports, maintaining secure data backup systems, running tests on database systems, and debugging database issues.</p>
 					<hr>
-					<a href="https://www.facebook.com/profile.php?id=100010239768044" class="btn btn-primary">Know More</a>
+					<a href="https://www.facebook.com/zaeem.tahir.10" class="btn btn-primary">Know More</a>
 				</div>
 			</div>
 
@@ -141,11 +141,11 @@
 					<div class="user-pic">
 						<img src="images/ossamamehmood.png" class="img-fluid" alt="User Pic">
 					</div>
-					<h4>Ossama Mehmood 샘</h4>
+					<h4>Ossama Mehmood</h4>
 					<h6>User Interface Designer</h6>
 					<hr>
 					<p>Started my career at the age of Sixteen (16) as a Graphic Designer. To upvoke mine jounrey strength in myself as a User Interface Designer, Website and Software Designer       
-                    <br><a href="https://ossamamehmood.me">ossamaehmood</a></p>
+                    <br><a href="https://ossamamehmood.github.io">ossamaehmood</a></p>
 					<hr>
 					<a href="https://www.linkedin.com/in/ossamamehmood" class="btn btn-primary">Know More</a>
 				</div>

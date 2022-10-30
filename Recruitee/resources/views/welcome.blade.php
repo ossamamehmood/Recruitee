@@ -64,8 +64,8 @@
                     <img src="https://source.unsplash.com/1387x768/?deal" style="opacity: 80%" class="d-block w-100 bg-dark" alt="Heroes image">
                     <div class="carousel-caption d-none d-md-block my-lg-5">
                     <h3>About</h3>
-                    <h3>Job Portal</h3>
-                    <p>Job Portal is the topest job site in the worldwith unique visitors every month. Indeed strives to put job seekers first, giving them free access to search for jobs, post resumes, and research companies. Every day, we connect millions of people to new opportunities</p>
+                    <h3>Recruitee</h3>
+                    <p>Recruitee is the topest job site in the worldwith unique visitors every month. Indeed strives to put job seekers first, giving them free access to search for jobs, post resumes, and research companies. Every day, we connect millions of people to new opportunities</p>
                     <a class="btn btn-secondary" href="/team">Expert Team</a>
                    </div>
                 </div>
@@ -87,14 +87,14 @@ Team --->
         <div class="col-md-4">
 				<div class="card-box text-center">
 					<div class="user-pic">
-						<img src="images/abdullah.jpg" class="img-fluid" alt="User Pic">
+						<img src="images/zaeem.jpg" class="img-fluid" alt="User Pic">
 					</div>
-					<h4>Abdullah</h4>
+					<h4>Zaeem Tahir</h4>
 					<h6>Database Specialist</h6>
 					<hr>
 					<p>As a database specialist, mine duties include designing database elements, retrieving data for reports, maintaining secure data backup systems, running tests on database systems, and debugging database issues.</p>
 					<hr>
-					<a href="https://www.facebook.com/profile.php?id=100010239768044" class="btn btn-primary">Know More</a>
+					<a href="https://www.facebook.com/zaeem.tahir.10" class="btn btn-primary">Know More</a>
 				</div>
 			</div>
 
@@ -103,11 +103,11 @@ Team --->
 					<div class="user-pic">
 						<img src="images/ossamamehmood.png" class="img-fluid" alt="User Pic">
 					</div>
-					<h4>Ossama Mehmood 샘</h4>
+					<h4>Ossama Mehmood</h4>
 					<h6>User Interface Designer</h6>
 					<hr>
 					<p>Started my career at the age of Sixteen (16) as a Graphic Designer. To upvoke mine jounrey strength in myself as a User Interface Designer, Website and Software Designer       
-                    <br><a href="https://ossamamehmood.me">ossamaehmood</a></p>
+                    <br><a href="https://ossamamehmood.github.io">ossamaehmood</a></p>
 					<hr>
 					<a href="https://www.linkedin.com/in/ossamamehmood" class="btn btn-primary">Know More</a>
 				</div>
